@@ -169,7 +169,7 @@ st.markdown("""
             font-weight: 500;
             color: #666666;
         ">
-            大台北地區
+            台中市
         </span>
     </h1>
 """, unsafe_allow_html=True)
